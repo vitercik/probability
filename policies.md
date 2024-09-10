@@ -13,7 +13,7 @@ The class schedule highlights assignment due dates so that you can plan your wor
 
 | Category             | % of course letter grade | Notes                                         |
 |----------------------|--------------------------|-----------------------------------------------|
-| Weekly assignments   | 35%                      | <ul><li>Eligible for four late ‘passes’</li><li>Complete at least six out of eight</li></ul>|
+| Weekly assignments   | 35%                      |  • Eligible for four late passes<br>• Complete at least six out of eight |
 | Midterm exam         | 30%                      |                                               |
 | Final exam           | 35%                      |                                               |
 
