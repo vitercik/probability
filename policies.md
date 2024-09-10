@@ -5,7 +5,9 @@ description: >-
     Course policies and information.
 ---
 
-D.1 Course Structure
+# Course policies
+
+## Course structure
 
 This course will be facilitated through a combination of in-person class meetings and problem sessions with CAs. All assignments will be posted on Canvas. Announcements will also be made through the Canvas site, and any questions should be posted to the Discussions tab.
 

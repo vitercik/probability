@@ -15,16 +15,12 @@ seo:
 - **Quarter:** Fall 2024
 - **Lecture time:** Mondays and Wednesdays 1:30-2:50pm
 - **Lecture location:** STLC 111
-- **Instructor:** [Ellen Vitercik](https://vitercik.github.io)
-  - Office hours: TBD
+- **Professor:** [Ellen Vitercik](https://vitercik.github.io). *Office hours:* TBD
 - **CAs**:
-  - Yingxi Li
-    - Office hours: TBD
-  - Josh Richland
-    - Office hours: TBD
-  - Khanh Hoang Vu
-    - Office hours: TBD
-- **ACE CA**: Evelyn Wajun Yee
+  - Yingxi Li. *Office hours:* TBD
+  - Josh Richland. *Office hours:* TBD
+  - Khanh Hoang Vu. *Office hours:* TBD
+- **[ACE](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/undergraduate-programs/additional-courses) CA**: Evelyn Wajun Yee
 - **Prerequisites:**  CME 100 or MATH 51
 
 ## Description
@@ -42,5 +38,11 @@ Through active engagement and completion of course activities, you will be able 
 
 This course will be facilitated through a combination of in-person class meetings with the professor and sections with CAs. All assignments will be posted on Canvas. Announcements will also be made through the Canvas site, and any questions should be posted to Ed.
 - **Lecture:** Our class will meet on Mondays and Wednesdays from 1:30-2:50 PM in STLC 111.
-- **Section:** Each student will be assigned to one of three hour-long weekly sections, consisting of about one third of the students. A CA will guide the students through problems related to the week's lecture and homework. Scheduling will be announced soon.
+- **Section:** Each student will be assigned to one hour-long weekly section, each consisting of about one third of the students. A CA will guide the students through problems related to the week's lecture and homework. Scheduling will be announced soon.
 - **Homework:** You will submit your weekly homework assignments on Gradescope (linked to on Canvas). The deadline for each homework will be Thursdays at 12pm.
+
+## Course Materials
+- Required textbook: Blitzstein, J. & Hwang, J. (2019). Introduction to Probability (2nd edition).  
+You can access it for free [here](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing)
+- Optional textbook: Ross, Sheldon M. (2014). A first course in probability.  
+Available at Stanford’s library.
