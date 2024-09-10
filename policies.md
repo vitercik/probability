@@ -51,7 +51,7 @@ Stanford is committed to providing equal educational opportunities for disabled 
 
 If you experience disability, please register with the [Office of Accessible Education (OAE)](oae.stanford.edu). Professional staff will evaluate your needs, support appropriate and reasonable accommodations, and prepare an Academic Accommodation Letter for faculty.  
 
-**Once you have an Academic Accommodation Letter, please upload it [here](https://www.dropbox.com/request/Oz8AP1C00CaVbKy5Hi2N).** Academic Accommodation Letters should be shared as soon as possible so we may partner with you and OAE to identify any barriers to access and inclusion that might be encountered in your experience of this course.  
+Once you have an Academic Accommodation Letter, we invite you to share it with us. Academic Accommodation Letters should be shared as soon as possible so we may partner with you and OAE to identify any barriers to access and inclusion that might be encountered in your experience of this course.  
 
 Students who are immunocompromised should register with the OAE as soon as possible.  
 
