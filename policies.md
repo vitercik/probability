@@ -41,7 +41,7 @@ If a student requires an extended absence after at least 70% of coursework is co
 ## Course Privacy Statement
 As noted in the University’s recording and broadcasting courses policy, students may not audio or video record class meetings without permission from the instructor. Students may keep the recordings that the course staff releases only for personal use and may not post recordings on the Internet, or otherwise distribute them. These policies protect the privacy rights of instructors and students, and the intellectual property and other rights of the university.
 
-##Academic Accommodations
+## Academic Accommodations
 
 Stanford is committed to providing equal educational opportunities for disabled students. Disabled students are a valued and essential part of the Stanford community. We welcome you to our class.  
 
