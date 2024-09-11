@@ -1,4 +1,8 @@
+---
+title: Introduction
+---
+
 M 9/23
 : Introduction to class
-: Probability and counting
+: Sample spaces and the naive definition of probability
 : [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 1.1-1.3
