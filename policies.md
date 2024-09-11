@@ -42,10 +42,10 @@ If a student requires an extended absence before more than 70% of coursework is 
 
 If a student requires an extended absence after at least 70% of coursework is completed at a passing grade or higher, students may request an [Incomplete](https://studentservices.stanford.edu/my-academics/evaluations-exams-grades/grades/general-university-grading-system#incomplete-grades). Incompletes do not award any credit and can drop students below the minimum required unit load. This could negatively impact academic progress, graduation, NCAA and Veteran’s certifications, and financial aid. Students in this situation should talk to the professor to discuss options.
 
-## Course Privacy Statement
+## Course privacy statement
 As noted in the University’s [recording and broadcasting courses policy](https://bulletin.stanford.edu/academic-polices/courses/recording-lectures), students may not audio or video record class meetings without permission from the instructor. Students may keep the recordings that the course staff releases only for personal use and may not post recordings on the Internet, or otherwise distribute them. These policies protect the privacy rights of instructors and students, and the intellectual property and other rights of the university. Students who need lectures recorded for the purposes of an academic accommodation should contact the [Office of Accessible Education](https://oae.stanford.edu/students). 
 
-## Academic Accommodations
+## Academic accommodations
 
 Stanford is committed to providing equal educational opportunities for disabled students. Disabled students are a valued and essential part of the Stanford community. We welcome you to our class.  
 

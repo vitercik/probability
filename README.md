@@ -41,8 +41,8 @@ This course will be facilitated through a combination of in-person class meeting
 - **Section:** Each student will be assigned to one hour-long weekly section, each consisting of about one third of the students. A CA will guide the students through problems related to the week's lecture and homework. Scheduling will be announced soon.
 - **Homework:** You will submit your weekly homework assignments on Gradescope (linked to on Canvas). The deadline for each homework will be Thursdays at 12pm.
 
-## Course Materials
+## Course materials
 - Required textbook: Blitzstein, J. & Hwang, J. (2019). Introduction to Probability (2nd edition).  
-You can access it for free [here](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing)
+You can access it for free [here](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing).
 - Optional textbook: Ross, Sheldon M. (2014). A first course in probability.  
 Available at Stanford’s library.
