@@ -46,6 +46,7 @@
       border-top: $border $border-color;
       font-weight: normal;
       text-align: right;
+      margin-left: 20px; // Add this line to increase left margin
 
       +dd {
         border-top: $border $border-color;
