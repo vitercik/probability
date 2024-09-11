@@ -1,7 +1,3 @@
----
-title: Introduction
----
-
 M 9/23
 : Introduction to class
 : Probability and counting
