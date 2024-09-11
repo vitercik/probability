@@ -2,7 +2,7 @@
 title: Conditional probability
 ---
 
-M 9/30
+<span style="color: #3498db;">9/30</span>
 : Non-naive definition of probability
 : Definition of conditional probability
 : [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 1.6, 2.1-2.2
