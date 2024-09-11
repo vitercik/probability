@@ -3,4 +3,4 @@ title: Midterm
 ---
 
 10/28 
-: Midterm
+: Midterm (in class)
