@@ -14,3 +14,9 @@ M 10/14
 : Discrete Uniform
 : Cumulative distribution functions
 : [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 3.3-3.6
+
+M 10/14
+: Functions of random variables
+: Independence of random variables
+: Definition of expectation
+: [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 3.7-3.8, 4.1
