@@ -15,7 +15,7 @@ title: Random variables and their distributions
 : Cumulative distribution functions
 : [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 3.3-3.6
 
-10/14
+10/16
 : Functions of random variables
 : Independence of random variables
 : Definition of expectation
