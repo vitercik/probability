@@ -20,7 +20,7 @@ seo:
   - Yingxi Li. *Office hours:* TBD
   - Josh Richland. *Office hours:* TBD
   - Khanh Hoang Vu. *Office hours:* TBD
-- **[ACE](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/undergraduate-programs/additional-courses) CA**: Evelyn Wajun Yee
+- **[ACE](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/undergraduate-programs/additional-courses) CA**: Evelyn Yee
 - **Prerequisites:**  CME 100 or MATH 51
 
 ## Description
