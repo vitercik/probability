@@ -1,7 +1,5 @@
 ---
 name: Evelyn Yee
-role: Teaching Assistant
+role: ACE Assistant
 photo: evelyn.jpg
-meta:
-  Office Hours: TBA
 ---
