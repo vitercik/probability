@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Staff
+title: Staff and office hours
 description: A listing of all the course staff members.
 ---
 
