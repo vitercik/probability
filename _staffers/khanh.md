@@ -1,7 +1,7 @@
 ---
 name: Khanh Hoang Vu
 role: Teaching Assistant
-photo: khanh.jpg
+photo: khanh.jpeg
 meta:
   Office Hours: TBA
 ---
