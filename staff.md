@@ -24,7 +24,7 @@ description: A listing of all the course staff members.
 {% endif %}
 
 {% assign ACE_assistants = site.staffers | where: 'role', 'ACE Assistant' %}
-## [ACE](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/undergraduate-programs/additional-courses) Course Assistant
+## ACE Course Assistant
 
 {% for staffer in ACE_assistants %}
 {{ staffer }}
