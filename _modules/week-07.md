@@ -25,4 +25,4 @@ title: Continuous random variables
 
 11/7
 : **HW 5 due**{: .label .label-red } due at 12pm, 7 late days
-: **HW 6 out**{: .label .label-purple } due 10/14, 7 late days
+: **HW 6 out**{: .label .label-purple } due 11/14, 7 late days
