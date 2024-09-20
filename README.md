@@ -15,12 +15,6 @@ seo:
 - **Quarter:** Fall 2024
 - **Lecture time:** Mondays and Wednesdays 1:30-2:50pm
 - **Lecture location:** STLC 111
-- **Professor:** [Ellen Vitercik](https://vitercik.github.io). *Office hours:* TBD
-- **CAs**:
-  - Yingxi Li. *Office hours:* TBD
-  - Josh Richland. *Office hours:* TBD
-  - Khanh Hoang Vu. *Office hours:* TBD
-- **[ACE](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/undergraduate-programs/additional-courses) CA**: Evelyn Yee
 - **Prerequisites:**  CME 100 or MATH 51
 
 ## Description
