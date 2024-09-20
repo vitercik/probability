@@ -29,4 +29,3 @@ description: A listing of all the course staff members.
 {% for staffer in ACE_assistants %}
 {{ staffer }}
 {% endfor %}
-{% endif %}
