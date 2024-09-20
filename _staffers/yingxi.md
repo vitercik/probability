@@ -1,7 +1,7 @@
 ---
 name: Yingxi Li
 role: Teaching Assistant
-photo: yingxi
+photo: yingxi.jpg
 meta:
   Office Hours: TBA
 ---

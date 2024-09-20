@@ -1,7 +1,7 @@
 ---
 name: Josh Richland
 role: Teaching Assistant
-photo: josh
+photo: josh.jpg
 meta:
   Office Hours: TBA
 ---

@@ -1,8 +1,8 @@
 ---
 name: Ellen Vitercik
-role: Professor
+role: Instructor
 website: https://vitercik.github.io/
-photo: vitercik
+photo: vitercik.jpeg
 meta:
   Office Hours: Wednesday, 3:15-4:15, in Huang 306
 ---
