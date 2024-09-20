@@ -14,7 +14,7 @@ title: Conditional probability
 : - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 2.3-2.4
 
 10/3
-: **HW 1 due**{: .label .label-red } due at 12pm
+: **HW 1 due**{: .label .label-red } due at 12pm, 7 late days
 : **HW 2 out**{: .label .label-purple } due 10/10, 7 late days
 
 10/7
