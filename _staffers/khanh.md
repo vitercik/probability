@@ -5,3 +5,5 @@ photo: khanh.jpeg
 meta:
   Office Hours: TBA
 ---
+
+MS student in MS&E
