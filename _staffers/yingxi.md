@@ -3,7 +3,7 @@ name: Yingxi Li
 role: Teaching Assistant
 photo: yingxi.jpg
 meta:
-  Office Hours: TBA
+  Office Hours: Thursday, 9-10am, in Spilker 143
 ---
 
 PhD student in MS&E
