@@ -7,6 +7,7 @@ title: Conditional probability
 : - Non-naive definition of probability
 : - Definition of conditional probability
 : - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 1.6, 2.1-2.2
+: - [Course reader](https://vitercik.github.io/120notes/intro.html): 1.5, 2.1
 
 10/2
 : **Lecture**{: .label .label-blue } 
