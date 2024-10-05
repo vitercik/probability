@@ -24,3 +24,4 @@ title: Conditional probability
 : - Independence
 : - Bayes' rule continued
 : - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 2.5-2.7
+: - [Course reader](https://vitercik.github.io/120notes/intro.html): 2.3-2.4
