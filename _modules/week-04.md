@@ -18,16 +18,18 @@ title: Random variables and their distributions
 : **Lecture**{: .label .label-blue }
 : - Bernoulli and Binomial
 : - Hypergeometric
-: - Discrete Uniform
-: - Cumulative distribution functions
-: - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 3.3-3.6
+: - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 3.3-3.4
+: - [Course reader](https://vitercik.github.io/120notes/intro.html): 3.3-3.4
+
 
 10/16
 : **Lecture**{: .label .label-blue }
+: - Discrete Uniform
+: - Cumulative distribution functions
 : - Functions of random variables
 : - Independence of random variables
 : - Definition of expectation
-: - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 3.7-3.8, 4.1
+: - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 3.5-3.8, 4.1
 
 10/17
 : **HW 3 due**{: .label .label-red } due at 12pm, 7 late days
