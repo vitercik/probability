@@ -30,6 +30,7 @@ title: Random variables and their distributions
 : - Independence of random variables
 : - Definition of expectation
 : - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 3.5-3.8, 4.1
+: - [Course reader](https://vitercik.github.io/120notes/intro.html): 3.5-3.8, 4.1
 
 10/17
 : **HW 3 due**{: .label .label-red } due at 12pm, 7 late days
