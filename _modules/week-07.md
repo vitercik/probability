@@ -6,18 +6,19 @@ title: Continuous random variables
 : **Lecture**{: .label .label-blue } 
 : - Poisson
 : - Probability density functions
-: - Uniform
-: - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 4.7, 5.1-5.2
-: - [Course reader](https://vitercik.github.io/120notes/intro.html): 4.7, 5.1-5.2
+: - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 4.7, 5.1
+: - [Course reader](https://vitercik.github.io/120notes/intro.html): 4.7, 5.1
 
 10/31
 : **HW 5 out**{: .label .label-purple } due 11/7, 7 late days
 
 11/4
 : **Lecture**{: .label .label-blue } 
+: - Uniform
 : - Normal
 : - Exponential
-: - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 5.4-5.5
+: - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 5.2, 5.4-5.5
+: - [Course reader](https://vitercik.github.io/120notes/intro.html): 5.2-5.4
 
 11/6
 : **Lecture**{: .label .label-blue } 
