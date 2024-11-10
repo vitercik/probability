@@ -18,4 +18,4 @@ title: Joint distributions
 
 11/14
 : **HW 6 due**{: .label .label-red } due at 12pm, 7 late days
-: **HW 7 out**{: .label .label-purple } due 11/28, 7 late days
+: **HW 7 out**{: .label .label-purple } due 11/21, 7 late days
