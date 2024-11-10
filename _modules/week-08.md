@@ -7,6 +7,7 @@ title: Joint distributions
 : - Joint, marginal, and conditional
 : - 2D Law of the Unconscious Statistician
 : - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 7.1-7.2
+: - [Course reader](https://vitercik.github.io/120notes/intro.html): 6.1-6.2
 
 11/13
 : **Lecture**{: .label .label-blue } 
