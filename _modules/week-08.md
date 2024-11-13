@@ -15,6 +15,7 @@ title: Joint distributions
 : - Multinomial
 : - Multivariate normal
 : - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 7.3-7.5
+: - [Course reader](https://vitercik.github.io/120notes/intro.html): 6.3-6.5
 
 11/14
 : **HW 6 due**{: .label .label-red } due at 12pm, 7 late days
