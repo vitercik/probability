@@ -7,6 +7,7 @@ title: Conditional expectation
 : - Conditional expectation given an event
 : - Conditional expectation given a random variable
 : - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 9.1-9.2
+: - [Course reader](https://vitercik.github.io/120notes/intro.html): 8.1-8.2
 
 11/21
 : **HW 7 due**{: .label .label-red } due at 12pm, 7 late days
