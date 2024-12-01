@@ -18,3 +18,4 @@ title: Conditional expectation
 : - Properties of conditional expectation
 : - Conditional variance
 : - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 9.3, 9.5-9.6
+: - [Course reader](https://vitercik.github.io/120notes/intro.html): 8.3-8.4
