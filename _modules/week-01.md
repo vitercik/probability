@@ -2,7 +2,7 @@
 title: Introduction
 ---
 
-9/23
+9/22
 : **Lecture**{: .label .label-blue } 
 : - Introduction to class
 : - Sample spaces and the naive definition of probability

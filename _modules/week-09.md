@@ -2,7 +2,7 @@
 title: Transformations
 ---
 
-11/18
+11/17
 : **Lecture**{: .label .label-blue } 
 : - Change of variables
 : - Convolutions
