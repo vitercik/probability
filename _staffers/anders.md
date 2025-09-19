@@ -1,9 +1,9 @@
 ---
 name: Anders Wikum
 role: Teaching Assistant
-photo: yingxi.jpg
+photo: anders.jpg
 meta:
-  Office Hours: TMD
+  Office Hours: Monday 3-4pm
 ---
 
 PhD student in MS&E
