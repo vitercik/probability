@@ -4,7 +4,7 @@ role: Instructor
 website: https://vitercik.github.io/
 photo: vitercik.jpeg
 meta:
-  Office Hours: Wednesday, 3:15-4:15
+  Office Hours: Wednesday, 3:15-4:15, Huang 203
 ---
 
 Assistant Professor in MS&E and CS
