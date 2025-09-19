@@ -22,7 +22,7 @@ The class schedule highlights assignment due dates so that you can plan your wor
 Assignment deadlines are listed in the course schedule to enable you to effectively plan and balance your academic work and other commitments. Despite the best planning, however, we know that life happens! So:
 - You are permitted 4 “late days” for your assignments. In other words, there would be no penalty if you submitted one of the assignments four days late, or four of the assignments one day late, etc.
 - Beyond that, your grade for an assignment goes down by 7 points (e.g., 90% to 83%) for every 12 hours the assignment is late, up until a week after the deadline, at which point the assignment will receive a grade of 0%.
-- HW4 and HW8 have no late days, which will allow us to post solutions before the midterm and final exams. If submitted after the deadline, HW4 and HW8 will receive a grade of 0%.
+- HW3 and HW8 have no late days, which will allow us to post solutions before the midterm and final exams. If submitted after the deadline, HW3 and HW8 will receive a grade of 0%.
 
 ## Dropping lowest homework grades
 Your final grade for the weekly assignments will be based on your six highest assignment grades, out of eight total. For example, if you complete all eight assignments, your lowest two grades will be dropped. If you only turn in six out of eight assignments, your grade will only depend on the six assignments you turned in.
