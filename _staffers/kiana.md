@@ -1,7 +1,7 @@
 ---
 name: Kiana Asgari
 role: Teaching Assistant
-photo: anders.jpg
+photo: kiana.jpg
 meta:
   Office Hours: Wednesday, 10-11am, Y2E2 182
 ---
