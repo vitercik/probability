@@ -59,8 +59,8 @@ Stanford is committed to providing equal educational opportunities for disabled 
 If you experience disability, please register with the [Office of Accessible Education (OAE)](oae.stanford.edu). Professional staff will evaluate your needs, support appropriate and reasonable accommodations, and prepare an Academic Accommodation Letter for faculty.  
 
 Once you have an Academic Accommodation Letter, we invite you to share it with us. Academic Accommodation Letters should be shared as soon as possible so we may partner with you and OAE to identify any barriers to access and inclusion that might be encountered in your experience of this course. The deadlines to submit your OAE letter are:
-- 10 days prior to the midterm for midterm exam accomodations.
-- November 17, 2025, at 5:00 pm for final exam accomodations.
+- 10 days prior to the midterm for midterm exam accommodations.
+- November 17, 2025, at 5:00 pm for final exam accommodations.
 
 Student-athletes who anticipate challenges in being able to participate in class or submit assignments on time should speak to a course instructor or course assistant as soon as possible about available alternatives or allowances.  
 
