@@ -7,6 +7,13 @@ description: >-
 
 # Course policies
 
+## Exam proctoring
+
+This course is participating in the proctoring pilot overseen by the Academic Integrity Working Group
+(AIWG). The purpose of this pilot is to determine the efficacy of proctoring and develop effective
+practices for proctoring in-person exams at Stanford. To find more details on the pilot or the working
+group, please visit the AIWG’s [webpage](https://studentaffairs.stanford.edu/AIWG). Please also review the [AIWG Student Information Guide](https://drive.google.com/file/d/1XUZPSm1QdRSBiZU35waNLxiXZOcU47z3/view).
+
 ## Coursework and grading scheme
 
 The class schedule highlights assignment due dates so that you can plan your work for the quarter accordingly. The table below summarizes the kinds of work you will be asked to do and their contributions to your course grade.
@@ -51,9 +58,9 @@ Stanford is committed to providing equal educational opportunities for disabled 
 
 If you experience disability, please register with the [Office of Accessible Education (OAE)](oae.stanford.edu). Professional staff will evaluate your needs, support appropriate and reasonable accommodations, and prepare an Academic Accommodation Letter for faculty.  
 
-Once you have an Academic Accommodation Letter, we invite you to share it with us. Academic Accommodation Letters should be shared as soon as possible so we may partner with you and OAE to identify any barriers to access and inclusion that might be encountered in your experience of this course.  
-
-Students who are immunocompromised should register with the OAE as soon as possible.  
+Once you have an Academic Accommodation Letter, we invite you to share it with us. Academic Accommodation Letters should be shared as soon as possible so we may partner with you and OAE to identify any barriers to access and inclusion that might be encountered in your experience of this course. The deadlines to submit your OAE letter are:
+- 10 days prior to the midterm for midterm exam accomodations.
+- November 17, 2025, at 5:00 pm for final exam accomodations.
 
 Student-athletes who anticipate challenges in being able to participate in class or submit assignments on time should speak to a course instructor or course assistant as soon as possible about available alternatives or allowances.  
 
