@@ -14,6 +14,10 @@ This course is participating in the proctoring pilot overseen by the Academic In
 practices for proctoring in-person exams at Stanford. To find more details on the pilot or the working
 group, please visit the AIWG’s [webpage](https://studentaffairs.stanford.edu/AIWG). Please also review the [AIWG Student Information Guide](https://drive.google.com/file/d/1XUZPSm1QdRSBiZU35waNLxiXZOcU47z3/view).
 
+## Makeup exam
+
+Make-up exams are granted only for documented medical reasons or serious emergencies. Appropriate written documentation (e.g., a doctor’s note) is required.
+
 ## Coursework and grading scheme
 
 The class schedule highlights assignment due dates so that you can plan your work for the quarter accordingly. The table below summarizes the kinds of work you will be asked to do and their contributions to your course grade.
