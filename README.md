@@ -13,8 +13,8 @@ seo:
 ## Course information
 
 - **Quarter:** Fall 2026.
-- **Lecture time:** Mondays and Fridays, 1:30-2:50pm. (In Week 1, lectures will meet on Wednesday and Friday.)
-- **Quiz time:** Wednesdays, 1:30-2:50pm.
+- **Lecture time:** Wednesdays and Fridays, 1:30-2:50pm.
+- **Quiz time:** Mondays, 1:30-2:50pm.
 - **Lecture and quiz location:** TBD.
 - **Prerequisites:**  CME 100 or MATH 51.
 
@@ -32,8 +32,8 @@ Through active engagement and completion of course activities, you will be able 
 ## Course structure
 
 This course will be facilitated through a combination of in-person class meetings with the professor and sections with CAs. All assignments will be posted on Canvas. Announcements will also be made through the Canvas site, and any questions should be posted to Ed.
-- **Lecture:** Lectures will be held on Mondays and Fridays from 1:30-2:50 PM. In Week 1, lectures will be held on Wednesday and Friday.
-- **Quizzes:** Quizzes will be held on Wednesdays from 1:30-2:50 PM.
+- **Lecture:** Lectures will be held on Wednesdays and Fridays from 1:30-2:50 PM.
+- **Quizzes:** Quizzes will be held on Mondays from 1:30-2:50 PM.
 - **Tutorials:** Each student will be assigned to one half-hour-long weekly tutorial with two or three other students and one CA. The CA will guide the students through several practice problems. 
 - **Homework:** Homework is not graded but highly recommended to prepare for the weekly quizzes and tutorials.
 

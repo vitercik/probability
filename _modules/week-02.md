@@ -2,7 +2,7 @@
 title: Probability and counting
 ---
 
-9/24
+9/25
 : **Lecture**{: .label .label-blue } 
 : - How to count
 : - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 1.4-1.5
