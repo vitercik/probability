@@ -27,6 +27,8 @@ The two lowest quiz scores and two lowest tutorial scores will be dropped automa
 ## The Honor Code
 Please familiarize yourself with the [Stanford Honor Code](https://communitystandards.stanford.edu/policies-guidance/honor-code); violations will be prosecuted to the fullest extent of the (Stanford) law.
 
+Quizzes and the final exam will be proctored in accordance with the Stanford Honor Code.
+
 ## Use of generative AI and electronic devices
 
 Students may use generative AI tools without restriction while working on the ungraded homework. Electronic devices may not be used during tutorials, quizzes, or the final exam, so generative AI tools may not be used during those activities.

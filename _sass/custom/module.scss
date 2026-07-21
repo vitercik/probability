@@ -28,10 +28,6 @@
       margin-bottom: 0;
     }
 
-    @include mq(lg) {
-      grid-template-columns: 1fr 7fr;
-    }
-
     %module-item {
       margin: 0;
       padding: $sp-2;
