@@ -13,8 +13,9 @@ seo:
 ## Course information
 
 - **Quarter:** Fall 2026
-- **Lecture time:** Mondays and Wednesdays 1:30-2:50pm
-- **Lecture location:** STLC 111
+- **Lecture time:** Mondays and Fridays, 1:30-2:50pm (In Week 1, lectures will meet on Wednesday and Friday.)
+- **Quiz time:** Wednesdays, 1:30-2:50pm
+- **Lecture and quiz location:** TBD
 - **Prerequisites:**  CME 100 or MATH 51
 
 ## Description
@@ -31,7 +32,8 @@ Through active engagement and completion of course activities, you will be able 
 ## Course structure
 
 This course will be facilitated through a combination of in-person class meetings with the professor and sections with CAs. All assignments will be posted on Canvas. Announcements will also be made through the Canvas site, and any questions should be posted to Ed.
-- **Lecture:** Our class will meet on Mondays and Wednesdays from 1:30-2:50 PM in STLC 111.
+- **Lecture:** Lectures will be held on Mondays and Fridays from 1:30-2:50 PM. In Week 1, lectures will be held on Wednesday and Friday.
+- **Quizzes:** Quizzes will be held on Wednesdays from 1:30-2:50 PM.
 - **Section:** Each student will be assigned to one hour-long weekly section on Fridays (11am and 1:30pm in 200-203). Each section will consist of about one half of the students. A CA will guide the students through problems related to the week's lecture and homework. **The key to success in this class is doing practice problems**, so we highly encourage you to attend. The sign-up form for sections will go out on the first day of class, and the deadline for filling out that form will be midnight on Wednesday night. We will let you know which section you are in by the weekend, and you will have your first section during Week 2. 
 - **Homework:** You will submit your weekly homework assignments on Gradescope (linked to on Canvas). The deadline for each homework will be Thursdays at 12pm.
 
