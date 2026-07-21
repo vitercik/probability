@@ -12,7 +12,7 @@ seo:
 
 ## Course information
 
-- **Quarter:** Fall 2025
+- **Quarter:** Fall 2026
 - **Lecture time:** Mondays and Wednesdays 1:30-2:50pm
 - **Lecture location:** STLC 111
 - **Prerequisites:**  CME 100 or MATH 51
