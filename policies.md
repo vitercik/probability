@@ -48,7 +48,7 @@ If you experience disability, please register with the [Office of Accessible Edu
 
 Once you have an Academic Accommodation Letter, we invite you to share it with us. Academic Accommodation Letters should be shared as soon as possible so we may partner with you and OAE to identify any barriers to access and inclusion that might be encountered in your experience of this course.
 
-Student-athletes who anticipate challenges in being able to participate in class or submit assignments on time should speak to a course instructor or course assistant as soon as possible about available alternatives or allowances.  
+Student-athletes who anticipate challenges participating in class, quizzes, or tutorials as scheduled should speak to the professor as soon as possible about available alternatives or allowances.  
 
 ## Disruptions
 

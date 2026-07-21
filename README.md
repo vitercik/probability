@@ -31,7 +31,7 @@ Through active engagement and completion of course activities, you will be able 
 
 ## Course structure
 
-This course will be facilitated through a combination of in-person class meetings with the professor and sections with CAs. All assignments will be posted on Canvas. Announcements will also be made through the Canvas site, and any questions should be posted to Ed.
+This course will be facilitated through in-person lectures, quizzes, and tutorials. All assignments will be posted on Canvas. Announcements will also be made through the Canvas site, and any questions should be posted to Ed.
 - **Lecture:** Lectures will be held on Wednesdays and Fridays from 1:30-2:50 PM.
 - **Quizzes:** Quizzes will be held on Mondays from 1:30-2:50 PM.
 - **Tutorials:** Each student will be assigned to one half-hour-long weekly tutorial with two or three other students and one CA. The CA will guide the students through several practice problems. 
