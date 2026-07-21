@@ -2,7 +2,7 @@
 title: Random variables and their distributions
 ---
 
-10/8
+10/9
 : **Lecture**{: .label .label-blue }
 : - Probability pitfalls and paradoxes
 : - Random variables
@@ -14,7 +14,10 @@ title: Random variables and their distributions
 : **HW 2 due**{: .label .label-red } due at 12pm, 7 late days
 : **HW 3 out**{: .label .label-purple } due 10/16, **no late days**
 
-10/13
+10/12
+: **Quiz 2**{: .label .label-red }
+
+10/14
 : **Lecture**{: .label .label-blue }
 : - Bernoulli and Binomial
 : - Hypergeometric
@@ -22,7 +25,7 @@ title: Random variables and their distributions
 : - [Course reader](https://vitercik.github.io/120notes/intro.html): 3.3-3.4
 
 
-10/15
+10/16
 : **Lecture**{: .label .label-blue }
 : - Discrete Uniform
 : - Cumulative distribution functions
@@ -34,3 +37,6 @@ title: Random variables and their distributions
 
 10/16
 : **HW 3 due**{: .label .label-red } due at 12pm, **no late days**
+
+10/19
+: **Quiz 3**{: .label .label-red }
