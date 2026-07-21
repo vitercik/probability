@@ -2,17 +2,17 @@
 title: Joint distributions
 ---
 
-11/6
+Fri, Nov. 6
 : **Lecture**{: .label .label-blue } 
 : - Joint, marginal, and conditional
 : - 2D Law of the Unconscious Statistician
 : - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 7.1-7.2
 : - [Course reader](https://vitercik.github.io/120notes/intro.html): 6.1-6.2
 
-11/9
+Mon, Nov. 9
 : **Quiz 6**{: .label .label-red }
 
-11/11
+Wed, Nov. 11
 : **Lecture**{: .label .label-blue } 
 : - Covariance and correlation
 : - Multinomial

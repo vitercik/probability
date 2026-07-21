@@ -27,9 +27,9 @@ The two lowest quiz scores and two lowest tutorial scores will be dropped automa
 ## The Honor Code
 Please familiarize yourself with the [Stanford Honor Code](https://communitystandards.stanford.edu/policies-guidance/honor-code); violations will be prosecuted to the fullest extent of the (Stanford) law.
 
-## Course policies for use of generative AI
-While artificial intelligence (AI) tools can be valuable in certain contexts, in this course it is important that students develop their own skills and abilities to reason probabilistically. To maximally gain from the intentionally designed learning experiences in the course, it will be crucial that all members of the course community rely on personal efforts rather than use of AI tools. In fact, in many cases, it will be the effort itself (not the product) that is most valuable!
-As such, you cannot use large language models (like ChatGPT) and submit the output as your own. Doing so in this course is a violation of the [Stanford Honor Code](https://communitystandards.stanford.edu/policies-guidance/honor-code).
+## Use of generative AI and electronic devices
+
+Students may use generative AI tools without restriction while working on the ungraded homework. Electronic devices may not be used during tutorials, quizzes, or the final exam, so generative AI tools may not be used during those activities.
 
 
 ## Extended absences

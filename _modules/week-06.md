@@ -2,14 +2,14 @@
 title: Expectation
 ---
 
-10/21 
+Wed, Oct. 21
 : **Lecture**{: .label .label-blue } 
 : - Linearity of expectation
 : - Geometric and Negative Binomial
 : - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 4.2-4.3
 : - [Course reader](https://vitercik.github.io/120notes/intro.html): 4.2-4.3
 
-10/23
+Fri, Oct. 23
 : **Lecture**{: .label .label-blue } 
 : - Indicator random variables
 : - Law of the unconscious statistician
@@ -17,5 +17,5 @@ title: Expectation
 : - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 4.4-4.6
 : - [Course reader](https://vitercik.github.io/120notes/intro.html): 4.4-4.6
 
-10/26
+Mon, Oct. 26
 : **Quiz 4**{: .label .label-red }
