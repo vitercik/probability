@@ -24,5 +24,5 @@ title: Continuous random variables
 : - Exponential
 : - Poisson processes
 : - Joint, marginal, and conditional
-: - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing):5.5-5.6. 7.1
+: - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 5.5-5.6, 7.1
 : - [Course reader](https://vitercik.github.io/120notes/intro.html): 5.4-5.5, 6.1

@@ -21,13 +21,15 @@ The table below summarizes the graded course components and their contributions 
 | Quizzes               | 42%                      | Best 6 of 8; 7% each |
 | Cumulative final exam | 34%                      |                      |
 
+The two lowest quiz scores and two lowest tutorial scores will be dropped automatically. A missed quiz or tutorial receives a zero that may count as one of the dropped scores. Because the two lowest scores in each category are dropped, makeup quizzes and makeup tutorials will not be offered.
+
 
 ## The Honor Code
-Please familiarize yourself with the [Stanford Honor Code](honorcode.stanford.edu); violations will be prosecuted to the fullest extent of the (Stanford) law.
+Please familiarize yourself with the [Stanford Honor Code](https://communitystandards.stanford.edu/policies-guidance/honor-code); violations will be prosecuted to the fullest extent of the (Stanford) law.
 
 ## Course policies for use of generative AI
 While artificial intelligence (AI) tools can be valuable in certain contexts, in this course it is important that students develop their own skills and abilities to reason probabilistically. To maximally gain from the intentionally designed learning experiences in the course, it will be crucial that all members of the course community rely on personal efforts rather than use of AI tools. In fact, in many cases, it will be the effort itself (not the product) that is most valuable!
-As such, you cannot use large language models (like ChatGPT) and submit the output as your own. Doing so in this course is a violation of the [Stanford Honor Code](honorcode.stanford.edu).
+As such, you cannot use large language models (like ChatGPT) and submit the output as your own. Doing so in this course is a violation of the [Stanford Honor Code](https://communitystandards.stanford.edu/policies-guidance/honor-code).
 
 
 ## Extended absences
@@ -44,7 +46,7 @@ As noted in the University’s [recording and broadcasting courses policy](https
 
 Stanford is committed to providing equal educational opportunities for disabled students. Disabled students are a valued and essential part of the Stanford community. We welcome you to our class.  
 
-If you experience disability, please register with the [Office of Accessible Education (OAE)](oae.stanford.edu). Professional staff will evaluate your needs, support appropriate and reasonable accommodations, and prepare an Academic Accommodation Letter for faculty.  
+If you experience disability, please register with the [Office of Accessible Education (OAE)](https://oae.stanford.edu/). Professional staff will evaluate your needs, support appropriate and reasonable accommodations, and prepare an Academic Accommodation Letter for faculty.  
 
 Once you have an Academic Accommodation Letter, we invite you to share it with us. Academic Accommodation Letters should be shared as soon as possible so we may partner with you and OAE to identify any barriers to access and inclusion that might be encountered in your experience of this course.
 
