@@ -1,6 +1,6 @@
 ---
-title: Final exam
+title: Cumulative final exam
 ---
 
-12/10
-: Final exam, 3:30-6:30pm
+12/9
+: Cumulative final exam, 3:30-6:30pm
