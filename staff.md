@@ -12,3 +12,17 @@ description: A listing of all the course staff members.
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
+
+## Course Assistants
+
+{% assign course_assistants = site.staffers | where: 'role', 'Course Assistant' | sort: 'name' %}
+{% for staffer in course_assistants %}
+{{ staffer }}
+{% endfor %}
+
+## ACE Course Assistant
+
+{% assign ace_assistants = site.staffers | where: 'role', 'ACE Course Assistant' %}
+{% for staffer in ace_assistants %}
+{{ staffer }}
+{% endfor %}
