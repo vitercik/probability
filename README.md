@@ -16,7 +16,7 @@ seo:
 - **Lecture time:** Wednesdays and Fridays, 1:30-2:50pm.
 - **Quiz time:** Mondays beginning October 5; arrive by 1:30pm, quiz from 1:45-2:05pm.
 - **Final exam:** Wednesday, December 9, 3:30-6:30pm; location TBD.
-- **Lecture and quiz location:** TBD.
+- **Lecture and quiz location:** STLC 111.
 - **Course platforms:** [Canvas](https://canvas.stanford.edu/courses/232744) and [Ed](https://edstem.org/us/courses/100579/discussion).
 - **Prerequisites:**  CME 100 or MATH 51.
 
