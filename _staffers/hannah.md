@@ -4,5 +4,6 @@ role: Course Assistant
 email: htreehan@stanford.edu
 photo: hannah.jpg
 meta:
-  Office Hours: TBD
+  Office Hours: Thursdays, 5–6 p.m.
+  Location: Shriram 052
 ---

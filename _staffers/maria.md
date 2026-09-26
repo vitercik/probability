@@ -4,5 +4,6 @@ role: Course Assistant
 email: mbullano@stanford.edu
 photo: maria.jpg
 meta:
-  Office Hours: TBD
+  Office Hours: Tuesdays, 5–6 p.m.
+  Location: Huang B019
 ---
