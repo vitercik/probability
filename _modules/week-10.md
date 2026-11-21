@@ -17,8 +17,7 @@ Mon, Nov. 30
 : **Quiz 8**{: .label .label-red }
 
 Wed, Dec. 2
-: **Lecture (tentative)**{: .label .label-blue }
-: - Properties of conditional expectation (continued)
+: **Lecture**{: .label .label-blue }
 : - Conditional variance
-: - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 9.3, 9.5-9.6
-: - [Course reader](https://vitercik.github.io/120notes/intro.html): 8.2.1, 8.3-8.4
+: - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 9.5-9.6
+: - [Course reader](https://vitercik.github.io/120notes/intro.html): 8.3-8.4

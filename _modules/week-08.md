@@ -5,7 +5,7 @@ title: Joint distributions
 Fri, Nov. 6
 : **Lecture**{: .label .label-blue }
 : - Joint, marginal, and conditional (discrete, continued)
-: - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 7.1 (discrete case)
+: - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 7.1
 : - [Course reader](https://vitercik.github.io/120notes/intro.html): 6.1.1
 
 Mon, Nov. 9

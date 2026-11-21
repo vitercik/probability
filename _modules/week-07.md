@@ -24,6 +24,5 @@ Wed, Nov. 4
 : - Exponential
 : - Poisson processes
 : - Joint, marginal, and conditional (discrete)
-: - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 5.5-5.6, 7.1 (discrete case)
-: - Supplementary textbook reading for HW7: 4.8 (Theorem 4.8.1, sums of independent Poisson random variables)
+: - [Textbook reading](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view?usp=sharing): 5.5-5.6, 7.1
 : - [Course reader](https://vitercik.github.io/120notes/intro.html): 5.4-5.5, 6.1.1
